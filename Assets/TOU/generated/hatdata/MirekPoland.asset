@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65bf483b6b7de711829e639a4b9d308, type: 3}
+  m_Name: MirekPoland
+  m_EditorClassIdentifier: 
+  freeRedeemableCosmetic: 0
+  redeemPopUpColor: 0
+  epicId: 
+  BundleId: 
+  ProductId: MirekPoland
+  ChipOffset: {x: -0.1, y: 0.35}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  displayOrder: 0
+  NotInStore: 0
+  Free: 1
+  SpritePreview: {fileID: 21300000, guid: 9831b69f7baf6e941bd0e27193c56bc6, type: 3}
+  PreviewCrewmateColor: 0
+  ViewDataRef:
+    m_AssetGUID: 7e15513e3fb4ca74a9f8bb41dbf7ae6f
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  InFront: 1
+  NoBounce: 1
+  BlocksVisors: 0
+  StoreName: Malkiz
