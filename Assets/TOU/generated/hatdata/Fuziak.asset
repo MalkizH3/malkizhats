@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65bf483b6b7de711829e639a4b9d308, type: 3}
+  m_Name: Fuziak
+  m_EditorClassIdentifier: 
+  freeRedeemableCosmetic: 0
+  redeemPopUpColor: 0
+  epicId: 
+  BundleId: 
+  ProductId: Fuziak
+  ChipOffset: {x: -0.1, y: 0.35}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  displayOrder: 0
+  NotInStore: 0
+  Free: 1
+  SpritePreview: {fileID: 21300000, guid: 989669b09c25f3f4a9341865cac7f90e, type: 3}
+  PreviewCrewmateColor: 0
+  ViewDataRef:
+    m_AssetGUID: f0b8d042646fab242baeb2d4c1def30d
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  InFront: 1
+  NoBounce: 1
+  BlocksVisors: 0
+  StoreName: Malkiz
